@@ -1,9 +1,3 @@
-# Ph.D. Tracks API
-
-Welcome to the Ph.D. Tracks API. This project is designed to serve as a centralized platform for managing academic scholars within institutions. It provides a variety of features to streamline administrative processes, enhance transparency, and support the development of scholars throughout their Ph.D. journey.
-
-This repository contains the API's code of the above mentioned project.
-
 ## Getting Started
 To get started with the project, follow the steps below to clone the repository, set up a virtual environment, install dependencies, and run the development server.
 
@@ -13,7 +7,7 @@ To get started with the project, follow the steps below to clone the repository,
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Naman82/PHD_Tracks_API.git
+git clone https://github.com/agrawalkunal2001/PHD_Tracks.git
 ```
 
 ### Set Up a Virtual Environment
@@ -40,7 +34,13 @@ pip install -r requirements.txt
 py manage.py runserver
 ```
 
-Once the server is running, you can access the application at http://127.0.0.1:8000/api in your web browser.
+Once the server is running, you can access the application at http://127.0.0.1:8000/ in your web browser.
 
-## API Documentation
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
+1. Fork the repository.
+2. Create a new branch with a descriptive name.
+3. Make your changes and commit them with clear commit messages.
+4. Push your changes to your fork.
+5. Submit a pull request.
